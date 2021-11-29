@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useSelector, useDispatch } from "react-redux";
+import { useSelector } from "react-redux";
 import Pizzaman from "../assets/PizzaMan.png";
 import { useNavigate } from "react-router-dom";
 function Checkout() {
